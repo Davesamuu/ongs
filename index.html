@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- Definindo o conjunto de caracteres como UTF-8 para suportar caracteres especiais -->
+    <meta charset="UTF-8">
+    <!-- Configura a largura da página para se ajustar ao tamanho da tela do dispositivo -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link para o arquivo CSS que contém os estilos da página -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Título da página que aparece na aba do navegador -->
+    <title>Busca ONGs Brasil</title>
+</head>
+<body>
+    <!-- Cabeçalho da página -->
+    <header>
+        <!-- Título principal da página -->
+        <h1>Busque uma Ong Brasileira</h1>
+    </header>
+    <main>
+        <!-- Seção principal da página onde o usuário pode realizar a pesquisa -->
+        <section>
+            <!-- Campo de entrada de texto para o usuário digitar sua pesquisa -->
+            <input type="text" placeholder="Procure sua ONG aqui" id="campo-pesquisa">
+            <!-- Botão que aciona a função de pesquisa quando clicado -->
+            <button onclick="pesquisar()">Buscar</button>
+        </section>
+        <!-- Seção onde os resultados da pesquisa serão exibidos -->
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+            <!-- Resultados da pesquisa aparecerão aqui -->
+        </section>
+    </main>
+    <!-- Rodapé da página -->
+    <footer>
+        <!-- Texto de copyright e informações de contato -->
+        <p>2024 - Busca ONGs Brasil. Todos os direitos reservados</p>
+        <p>Entre em contato pelo email: rdavisamuel@gmail.com</p>
+    </footer>
+    <!-- Carrega o script JavaScript que contém dados necessários para a aplicação -->
+    <script src="dados.js"></script>
+    <!-- Carrega o script JavaScript que contém a lógica da aplicação -->
+    <script src="app.js"></script>
+    <!-- Comentário sobre a inclusão de um script para filtrar resultados, se necessário -->
+</body>
+</html>
