@@ -1,7 +1,3 @@
-## Vamos criar um README.md incrível para o seu projeto!
-
-**Aqui está uma sugestão para o seu README.md, adaptada para ser mais atraente e fácil de entender para usuários de todas as idades:**
-
 ### Busca ONGs Brasil: Ajude a fazer a diferença! 
 
 **O que é isso?**
