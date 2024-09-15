@@ -54,15 +54,3 @@ Todo mundo pode fazer a diferença! Se você tiver alguma ideia para melhorar a 
 **#BuscaONGsBrasil #FaçaOBem #JuntosSomosMaisFortes**
 
 **##**
-
-**Dicas:**
-
-* **Use imagens:** Adicione imagens legais para deixar o seu README.md mais divertido e atraente.
-* **Seja claro e objetivo:** Use frases curtas e palavras simples para facilitar a compreensão.
-* **Crie seções:** Divida o seu README.md em seções para organizar as informações.
-* **Use emojis:** Os emojis ajudam a deixar o texto mais animado e fácil de ler.
-* **Adicione links:** Inclua links para o seu repositório, para as ONGs e para outras informações relevantes.
-
-**Com esse README.md, você vai atrair mais pessoas para o seu projeto e inspirar mais gente a fazer o bem!**
-
-**Gostaria de mais dicas ou precisa de ajuda para personalizar o seu README.md?**
